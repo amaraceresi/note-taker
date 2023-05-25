@@ -5,34 +5,33 @@
   *[Description](#description)
   *[Installation](#installation)
   *[Usage](#usage)
+  *[Heroku Link] (#heroku)
   *[Contribution](#contribution)
-  *[Test](#test)
   *[Github](#userName)
   *[Email](#emailAddress)
 
   ## Description
-  This is a simple project that generates a README file using Inquirer.
+  The Note Taker application allows users to write and save notes, helping them organize their thoughts and keep track of tasks. The application utilizes an Express.js backend and stores and retrieves note data from a JSON file. It is deployed on Heroku for easy access.
 
   ## Installation
-  The user can download the file onto their computer then use the command line. 
+  To use this project:
+  -Install Express and the uniqid library by running npm i.
+  -Start the server with node server.js.
+  -Open the provided localhost link in your browser.
+  -Add or remove notes, and your past notes will be saved and displayed.
 
   ## Usage
-  To quickly create a README.
+  -The home page has a tab that, when clicked, leads to a note-taking page where you can add, save, and delete notes.
+
+  ## Heroku Link 
+  https://note-taker889.herokuapp.com/notes
 
   ## Contribution
   I welcome contributions to enhance this project.
 
-  ## Test
-  Answer the questions and then see your README created.
-
   ## Github
-  https://github.com/amaraceresi
+  https://github.com/amaraceresi/note-taker
 
   ## Email
   aceresi95@icloud.com
 
-  ## License 
-  This project is licensed under MIT.
-
-  ## Video Link 
-  https://vimeo.com/828072626/363aeac5e9?share=copy
