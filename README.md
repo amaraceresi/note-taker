@@ -10,6 +10,8 @@
   *[Github](#userName)
   *[Email](#emailAddress)
 
+![Screenshot](./images/11-express-homework-demo-02-1.png)
+
   ## Description
   The Note Taker application allows users to write and save notes, helping them organize their thoughts and keep track of tasks. The application utilizes an Express.js backend and stores and retrieves note data from a JSON file. It is deployed on Heroku for easy access.
 
