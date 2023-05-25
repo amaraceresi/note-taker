@@ -21,7 +21,7 @@
   - Add or remove notes, and your past notes will be saved and displayed.
 
   ## Usage
-  -The home page has a tab that, when clicked, leads to a note-taking page where you can add, save, and delete notes.
+  The home page has a tab that, when clicked, leads to a note-taking page where you can add, save, and delete notes.
 
   ## Heroku Link 
   https://note-taker889.herokuapp.com/notes
